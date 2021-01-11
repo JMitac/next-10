@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://nextjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Next.js v10</h3>
